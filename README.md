@@ -1,7 +1,7 @@
 LegalBuddy: An AI-Powered Legal Assistant
 🧠 LegalBuddy: AI-Powered Legal Assistant
 LegalBuddy is a full-stack AI/ML-based LegalTech application that assists users by retrieving relevant legal information, case references, and simplified legal insights using RAG (Retrieval-Augmented Generation) and Gemini LLM APIs.
-
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 This project uses:
 
 💻 Frontend: React + Vite
@@ -16,12 +16,14 @@ This project uses:
 📄 Generates legal summaries, affidavits, judgments, and case insights
 ⚙️ Full-stack integration with modern tech stack
 🧰 Tech Stack
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 Layer	Technology
 Frontend	React + Vite
 Backend	Node.js (Express)
 AI Services	Python (RAG)
 LLM	Gemini API (x2 Keys)
 Styling	Tailwind CSS / Custom CSS
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
 🛠️ Installation & Setup
 1. Clone the Repository
 git clone https://github.com/your-username/legalbuddy.git
